@@ -1,0 +1,9 @@
+operation,affected_rows_or_cells,details
+Standardized column names,0,Lowercase names with trimmed whitespace and underscores.
+Parsed sale dates,0,Unparseable date rows were removed.
+Removed duplicate rows,0,Exact duplicates across all columns were removed.
+Removed invalid sale prices,49,"Rows with missing, zero, or negative price were removed."
+Removed impossible property areas,0,"Non-positive living, lot, or above-ground area."
+Imputed missing waterfront,6,Filled with mode: 0.0.
+Imputed missing view,1,Filled with mode: 0.0.
+Imputed missing country,3,Filled with categorical mode/placeholder: USA.
