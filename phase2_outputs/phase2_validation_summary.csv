@@ -1,0 +1,13 @@
+Requirement,Status
+1D numerical statistics completed,PASS
+1D categorical statistics completed,PASS
+2D Pearson correlation completed,PASS
+2D Spearman correlation completed,PASS
+2D covariance completed,PASS
+2D pairwise statistical analysis completed,PASS
+3D multiple regression completed,PASS
+3D partial correlation completed,PASS
+K-Means clustering completed,PASS
+Hierarchical clustering completed,PASS
+K-Means has multiple clusters,PASS
+Hierarchical clustering has multiple clusters,PASS

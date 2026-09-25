@@ -1,0 +1,5 @@
+variable_x,variable_y,controlled_variable,partial_correlation,p_value
+price,sqft_living,bathrooms,0.3048728740441064,1.6706920286758955e-98
+price,sqft_living,condition,0.44914359846212326,7.243853309371398e-225
+price,sqft_living,house_age_at_sale,0.4583764607265289,2.678682149459358e-235
+price,bathrooms,sqft_living,0.006484834485566822,0.6618513821910664

@@ -1,0 +1,9 @@
+variable,count,missing,unique_values,mode,mode_frequency
+street,4551,0,4476,2520 Mulberry Walk NE,4
+city,4551,0,44,Seattle,1561
+statezip,4551,0,77,WA 98103,148
+country,4551,0,1,USA,4551
+sale_month_name,4551,0,3,June,2155
+sale_quarter,4551,0,2,2014Q2,3903
+bedroom_group,4551,0,4,3,2025
+price_category,4551,0,4,Lower-middle,1148
