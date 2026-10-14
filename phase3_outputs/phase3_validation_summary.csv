@@ -1,0 +1,12 @@
+Requirement,Status
+Dataset standardized,PASS
+Covariance matrix calculated,PASS
+PCA performed,PASS
+Explained variance calculated,PASS
+90 percent PCA model identified,PASS
+95 percent PCA model identified,PASS
+Principal component loadings calculated,PASS
+2D PCA projection generated,PASS
+95 percent reduced dataset generated,PASS
+Reconstruction error calculated,PASS
+PCA clustering comparison completed,PASS
